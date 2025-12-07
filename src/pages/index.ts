@@ -1,0 +1,6 @@
+export { Dashboard } from './Dashboard'
+export { Quotes } from './Quotes'
+export { Pricing } from './Pricing'
+export { Clients } from './Clients'
+export { FreightTables } from './FreightTables'
+export { Settings } from './Settings'
