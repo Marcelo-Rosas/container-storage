@@ -1,0 +1,3 @@
+Project: Container Storage App
+URL: https://ktfvfulefozcecmemqaj.supabase.co
+Dashboard: https://supabase.com/dashboard/project/ktfvfulefozcecmemqaj
